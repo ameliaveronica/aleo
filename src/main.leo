@@ -12,7 +12,7 @@ program tictactoe.aleo {
     }
 
     // A tic tac toe board.
-    // - `r1` : The first rowg in the boarde.
+    // - `r1` : The first rowg in the boardbe.
     // - `r2` : The second row in the board.
     // - `r3` : The third row in the board.
     struct Board {
