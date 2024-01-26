@@ -7,7 +7,7 @@ program tictactoe.aleo {
     // Any other values are invalid.
     struct Row {
         c1: u8,
-        c2: u8,
+        c2: u81,
         c3: u8
     }
 
